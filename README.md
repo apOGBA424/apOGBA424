@@ -8,15 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [a fintech App like "Piggyvest"](http://piggyvest.com/)
+- 🔭 I’m based in **Abia State, Nigeria**
 
-- 🌱 I’m currently learning **MERN, AWS and Cinema4D**
+- 🔭 Currently working on [a fintech App like "Piggyvest"](http://piggyvest.com/)
+  
+- 🌱 Am learning **MERN, AWS and Cinema4D**
 
-- 👯 I’m looking to collaborate on [interesting projects and tech hirings.](#)
+- 👯 And available for tech jobs and collaborating on interesting projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/apOGBA424](https://github.com/apOGBA424)
 
-- 💬 Ask me about **Python,Flutter,Javascript**
+- 💬 Ask me about **Python ,Flutter, Javascript**
 
 - 📫 How to reach me **pasgba424@gmail.com**
 
@@ -24,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/paxbond01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="paxbond01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pasgba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasgba" height="30" width="40" /></a>
+<a href="https://codepen.io/paxbond01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="paxbond01" height="30" width="40" /></a>
 <a href="https://fb.com/pasgba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasgba" height="30" width="40" /></a>
 <a href="https://instagram.com/detechtiveapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detechtiveapp" height="30" width="40" /></a>
 </p>
