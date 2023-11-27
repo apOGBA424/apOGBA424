@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif)
 <h1 align="center">Hi 👋, I'm PASCHAL OGBA</h1>
-<h3 align="center">Freelance (Fullstack Web & Mobile Apps Development and UI Designs)</h3>
+<h3 align="center">Freelance (Fullstack Web & Mobile Apps | UI Designs)</h3>
 
 - 🏕 I’m based in **Abia State, Nigeria**
 
