@@ -1,4 +1,5 @@
-![MasterHead](https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif)
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" alt="MasterHead" height="350px">
+
 <h1 align="center">Hi 👋, I'm PASCHAL OGBA</h1>
 <h3 align="center">Freelance (Fullstack Web & Mobile Apps | UI Designs)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apogba424&label=Profile%20views&color=0e75b6&style=flat" alt="apogba424" /> </p>
